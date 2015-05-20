@@ -1,0 +1,15 @@
+Start: Tues, 5 May 2015 14:26:32 -0800
+End: Tues, 5 May 2015 17:56:16 -0800
+Tasks: Able to display forms but unable to filter correctly
+
+Start: Thu, 7 May 2015 21:32:56 -0800
+End: Thu, 7 May 2015 23:43:23 -0800
+Tasks: Worked on filtering categories
+
+Start: Sat, 9 May 2015 14:51:26 -0800
+End: Sat, 9 May 2015 17:43:21 -0800
+Tasks: Able to filter by category and working on individual deletion and checkin/out
+
+Start: Tues, 19 May 2015 16:42:54 -0800
+End: Tues, 19 May 2015 20:48:11 -0800
+Tasks: Finally completed deletion without any errors.
